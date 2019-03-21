@@ -1,0 +1,150 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.swiper-slide img{
+  width: 100%;
+}
+#to{
+  height: 220px;
+  border: 1px solid;
+}
+.swiper-wrapper .swiper-slide{
+  width: 314px ;
+  height: 218px;
+  margin-right: 10px !important;
+}
+.swiper-wrapper img{
+  width: 100%;
+  height: 100%;
+}
+.font{
+  width: 100%;
+  height: 38px;
+  line-height: 38px;
+  text-align: center;
+}
+.swiper2{
+  width: 1153px;
+  height: 313px;
+  border: 1px solid;
+  margin: 0 auto;
+}
+to1{
+  height: 220px;
+  border: 1px solid;
+}
+#font{
+  width: 44px;
+  height: 52px;
+  background: #D7D7D7;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 52px;
+}
+#font font{
+  font-size: 42px;
+}
+#font2{
+  width: 44px;
+  height: 52px;
+  background: #D7D7D7;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 52px;
+}
+#font2 font{
+  font-size: 42px;
+}
+#font3{
+  width: 44px;
+  height: 52px;
+  background: #D7D7D7;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 52px;
+}
+#font3 font{
+  font-size: 42px;
+}
+#font4{
+  width: 44px;
+  height: 52px;
+  background: #D7D7D7;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 52px;
+}
+#font4 font{
+  font-size: 42px;
+}
+.swiper-button-next .swiper-button-black{
+  z-index: 99;
+}
+.zhong{
+  width: 100%;
+  height: 543px;
+  border: 1px solid;
+}
+.zhong ul{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 6% auto;
+}
+.zhong ul li{
+  width: 569px;
+  height: 405px;
+  border: 1px solid;
+  list-style: none;
+}
+.zhong ul li div img{
+  width: 100%;
+  height: 100%;
+}
+@media (max-width: 1400px){
+ 
+}
+.zhong ul li:nth-child(2){
+  margin-left: 10px;
+}
+.my_yingyu{
+  width: 90%;
+  white-space: normal;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+.nei ul{
+  display: flex;
+  flex-direction:column;
+  margin: 0 auto;
+}
+.nei{
+  margin-left: 10%;
+}
+.nei ul li:nth-child(2){
+  margin-left: 0px;
+  margin-top: 10%;
+}
+.nei ul li:nth-child(3){
+  margin-left: 0px;
+  margin-top: 10%;
+}
+.zhong ul .nei ul li{
+  width: 100%;
+  height: 30%;
+}
+.nei ul li font{
+  font-size: 50px;
+  color: #50367F;
+}
+.nei ul li .my_yingyu{
+  font-size: 11px;
+}
+.nie ul li:nth-child(3){
+  color: #7D7195;
+  width: 30%;
+}
+.my_font2{
+  width: 30%;
+}
